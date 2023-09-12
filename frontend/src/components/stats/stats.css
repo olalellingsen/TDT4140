@@ -1,0 +1,21 @@
+
+
+.stats {
+    background-color: var(--compBg);
+    color: var(--textClr);
+    border-radius: 5px;
+    margin: 1rem;
+    width: auto;
+    padding: 1rem;
+  }
+  
+.progress-bar {
+    height: 0.5rem;
+    border-radius: 10px;
+    background-color: var(--primaryBg);
+}
+.progress-color {
+    height: inherit;
+    border-radius: 10px;
+    background-color: var(--primary);
+}

@@ -1,0 +1,19 @@
+.program-sessions {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.addSessionBtn {
+    background-color: var(--compBg);
+    color: var(--textClr);
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 0.5rem;
+    width: 8rem;
+}
+  
+.addSessionBtn:hover {
+    background-color: rgba(0, 181, 0, 0.683);
+}
+
+  

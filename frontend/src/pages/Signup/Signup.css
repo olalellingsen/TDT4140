@@ -1,0 +1,17 @@
+.signup {
+    width: 16rem;
+  }
+
+input, button {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 0.5rem;
+  border: none;
+  display: block;
+  width: 15rem;
+}
+
+.signup-link a:hover {
+    color: var(--primary);
+    transition: 300ms;
+}

@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes the class when hovered 1`] = `
+<form
+  className="create"
+  onSubmit={[Function]}
+>
+  <h3>
+    Legg til økt
+  </h3>
+  <label>
+    Øvelse:
+  </label>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <label>
+    Sets:
+  </label>
+  <input
+    onChange={[Function]}
+    type="number"
+    value=""
+  />
+  <label>
+    Reps:
+  </label>
+  <input
+    onChange={[Function]}
+    type="number"
+    value=""
+  />
+  <button>
+    Legg til
+  </button>
+</form>
+`;

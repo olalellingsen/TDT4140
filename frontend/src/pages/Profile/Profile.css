@@ -1,0 +1,8 @@
+.profile h2, .profile h3 {
+    text-align: center; 
+}
+  
+.profile-stats {
+    margin: auto;
+    width: 40rem;
+}

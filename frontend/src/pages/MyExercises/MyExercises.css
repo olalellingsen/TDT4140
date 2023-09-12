@@ -1,0 +1,18 @@
+.workoutsAndForm {
+    display: inline-flex;
+}
+
+.exercises {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
+
+input, button {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 0.5rem;
+    border: none;
+    display: block;
+    width: 15rem;
+  }

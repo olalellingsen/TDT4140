@@ -1,0 +1,10 @@
+.streak {
+    display: flex;
+    margin: 0 1rem 0 -0.8rem;
+}
+
+.streak p {
+    position:relative;
+    bottom: 50px;
+    left: 25px;
+}

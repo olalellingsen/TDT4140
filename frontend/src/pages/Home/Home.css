@@ -1,0 +1,37 @@
+.feed-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .feed-header {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .feed-box {
+    border: 5px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
+  .session-card {
+    margin-bottom: 20px;
+    border-bottom: 4px solid #ccc;
+  }
+  
+  .session-card p {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    
+  }
+  
+  .session-card p:first-of-type {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }

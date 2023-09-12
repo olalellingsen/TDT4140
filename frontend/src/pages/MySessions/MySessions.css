@@ -1,0 +1,9 @@
+.createAndSessions {
+    display: inline-flex;
+}
+
+.sessions {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+}

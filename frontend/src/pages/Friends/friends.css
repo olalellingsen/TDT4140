@@ -1,0 +1,34 @@
+.friends {
+    display: flex;
+}
+
+.findFriendsContainer {
+    margin-right: 10rem;
+}
+
+.friendSearch{
+    background-color: var(--compBg);
+    border-radius: 10px;
+    width: 29.5rem;
+    height: 2.5rem;
+    margin: right;
+    margin-bottom: 0;
+    display: flex;
+}
+
+
+.friendElement{
+    background-color: var(--compBg);
+    border-radius: 10px;
+    width: 30rem;
+    margin: right;
+    display: flex;
+    margin-top: 0.3rem;
+    padding-left: 0.5rem;
+}
+  
+.friendInfo {
+    width: 40rem;
+    text-align: left;
+    margin: auto;
+}

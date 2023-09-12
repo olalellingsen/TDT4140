@@ -1,0 +1,50 @@
+.nav {
+    margin-top: 0;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1,  a:hover {
+    color: var(--primary);
+    transition: 300ms;
+}
+  
+header {
+    background: var(--compBg)
+}
+
+.userMenu {
+    display: flex;
+    list-style: none;
+    height: 40px;
+}
+
+.userMenu li {
+    padding: 0.5rem
+}
+
+.userIcon:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: 400ms;
+}
+
+.logoutBtn {
+    background-color: var(--compBg);
+    border: solid 1px var(--primaryBg);
+    cursor: pointer;
+    margin: 5px;
+    
+}
+
+.logoutBtn:hover {
+    background-color: var(--primaryBg);
+    transition: 0.3s;
+}
+
+
+  

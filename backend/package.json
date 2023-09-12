@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "package.json er for å holde styr på dependencies i tillegg til å registrere egne scripst",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "preset": "@shelf/jest-mongodb",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
+    "validator": "^13.9.0"
+  }
+}
